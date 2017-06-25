@@ -1,4 +1,6 @@
 # Community-Detection
+
+# Overview
 The file code_MFMSBM.R contains the codes needed for Collapsed sampler for MFM-SBM (c-MFM-SBM).
 
 Below are the steps you should follow to use these codes:
